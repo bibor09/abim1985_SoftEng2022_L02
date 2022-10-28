@@ -1,2 +1,3 @@
-x = 'infos'
-print(x + ''[Dkeso')
+x = 'favicc'
+print(x + 'keso')
+
